@@ -1,0 +1,4 @@
+- 👋 Hello, I’m @HNZZ7SW
+- 👀 I’m interested in learn more about Data Analytics
+- 🌱 I’m currently learning Data Science anda Data Analytics
+- 💞️ I’m looking to collaborate on the creation on Dashboards or improve my knowledge using DAX functions
